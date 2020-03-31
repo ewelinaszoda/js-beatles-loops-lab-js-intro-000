@@ -9,6 +9,7 @@ function iLoveTheBeatles(number) {
   var Newarray = [];
   do {
     Newarray.push("I love the Beatles!");
+    number++;
   } while ( number < 15 );
 return Newarray;
 }
