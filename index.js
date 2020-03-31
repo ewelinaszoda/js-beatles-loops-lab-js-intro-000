@@ -4,3 +4,9 @@ function johnLennonFacts(array) {
     array[i] = array[i] + "!!!";
   } return array;
 }
+
+function iLoveTheBeatles(number) {
+  var array = [];
+  do 
+  array.push()
+}
